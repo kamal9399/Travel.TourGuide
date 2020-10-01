@@ -1,3 +1,6 @@
 # Travel.TourGuide
 Web based application made using HTML, CSS and JS. This project was developed as a part of the course curriculum of Internet Programming, this website is based on a Tour guide that helps the traveler and tourists in India to travel to various parts of the country to explore new places, Indian culture, Food and to engross through the history of the country. This Website makes it easier for the user to filter travel plans and packages and also updates them of the upcoming travel events across the country. The users can opt for tour packages or can make their own travel plans following the links provided so as to prevent them form fraud and scams. The website links to the tourism websites of the state government falling under the category of the Zones in the country.
-
+# How to deal with water while traveling in India:
+Only drink bottled water. All the tap water in India is contaminated with pollutants and amoebas. By only drinking good bottled mineral water you will help avoid getting sick. The only brands I recommend are Bisleri, Kinley & Aquafina. Other brands are not trustworthy.
+Stay well hydrated. India is typically hot and dry. Drink at least 2 liters (1/2 gallon) per day to stay healthy and strong.
+If you’re trekking, bring a water filter. In rare cases where bottled water isn’t available such as while trekking, you’ll need a Katadyn Pocket Water Filter or at least a LifeStraw so that you can get safe water from flowing rivers. Boil it as well if possible and you can also use Iodine tablets to be extra safe.
